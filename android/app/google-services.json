@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "30159744418",
+    "firebase_url": "https://smart-dustbin-539ee-default-rtdb.firebaseio.com",
+    "project_id": "smart-dustbin-539ee",
+    "storage_bucket": "smart-dustbin-539ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30159744418:android:97c53d9712d2bcb1f7d6fb",
+        "android_client_info": {
+          "package_name": "com.example.smart_dustbin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt27zrAPbFweDWMUKTsfkT1j_oyxwCFPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30159744418:android:c9f7fcd1b4cfb750f7d6fb",
+        "android_client_info": {
+          "package_name": "com.example.smartdustbin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt27zrAPbFweDWMUKTsfkT1j_oyxwCFPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
